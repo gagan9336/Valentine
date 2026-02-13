@@ -57,7 +57,7 @@ export default function Surprise() {
     })();
   };
 
-  const surpriseText = "You’ve given me six years of love, laughter, late-night calls, and memories I’ll always treasure. So here’s a small little something for my wifeyyyyy ❤️" ;
+  const surpriseText = "You’ve given me six years of love, laughter, late-night chats, and memories I’ll always treasure. So here’s a small little something for my wifeyyyyy ❤️" ;
   const couponText = "SVKR-XWNFGK-N8V";
   const text = "A ₹500 Amazon coupon — not because it’s about the money, but because I love seeing you pick something that makes you happy.";
 
