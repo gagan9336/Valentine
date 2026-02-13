@@ -67,7 +67,7 @@ export default function FinalNote() {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, []);
 
-  const fullText = "Six years ago, a random hello on the PP turned into the most important chapter of my life. We’ve laughed on late-night calls. Watched movies miles apart. Stayed up longer than we should have. Had romantic nights where distance didn’t matter. We’ve also argued. We’ve hurt each other. And I know there were times I broke you — and for that, I’m truly sorry. But through everything, one thing never changed: I care about you. I value you. And I love you. You’re not just my girl. You’re my comfort. My safe place. My wifeyyyyy. And today, on our anniversary, I just want you to know — I’m still here. Still choosing you. Still wanting a future with you. Always us. ❤️";
+  const fullText = "Six years ago, a random hello on the PP turned into the most important chapter of my life. We’ve laughed on late-night chats. Watched movies miles apart. Stayed up longer than we should have. Had romantic nights where distance didn’t matter. We’ve also argued. We’ve hurt each other. And I know there were times I broke you — and for that, I’m truly sorry. But through everything, one thing never changed: I care about you. I value you. And I love you. You’re not just my girl. You’re my comfort. My safe place. My wifeyyyyy. And today, on our anniversary, I just want you to know — I’m still here. Still choosing you. Still wanting a future with you. Always us. ❤️";
 
   // Optimized typing effect
   useEffect(() => {
